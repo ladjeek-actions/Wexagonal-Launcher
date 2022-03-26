@@ -2,7 +2,7 @@ let cachelist = [];
 const info = {
     version: "0.0.1-beta-13",
     dev: 0,
-    domain: "dash.wexa.top",
+    domain: "wexa.slqwq.cn",
     //endstatic: "static.wexa.top",
     //domain: "wexa.215213344.xyz",
     //endstatic: "static.215213344.xyz",
